@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
         super.onCreate(savedInstanceState);
         binding = ActivityMainBinding.inflate(getLayoutInflater());
         setContentView(binding.getRoot());
-
+// commentgit
         int[] browserImages = {R.drawable.facebook, R.drawable.github, R.drawable.gmail, R.drawable.linkdin,
                 R.drawable.telegram,R.drawable.messenger, R.drawable.whatsapp, R.drawable.youtube};
 
